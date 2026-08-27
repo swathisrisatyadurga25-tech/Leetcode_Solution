@@ -1,4 +1,4 @@
-class Solution:
+class Solutions:
     def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
 
         maximum = 0
